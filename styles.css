@@ -345,7 +345,7 @@ strong {
   flex-direction: column;
   justify-content: center;
   padding: 8rem 4rem 4rem 5rem;
-  width: 60%;
+  width: 55%;
   min-height: 100vh;
 }
 
@@ -365,7 +365,7 @@ strong {
   top: 0;
   right: 0;
   bottom: 0;
-  width: 40vw;
+  width: 45vw;
   overflow: hidden;
 }
 
@@ -394,7 +394,7 @@ strong {
 }
 
 .hero-section .featured-quote {
-  width: calc(60% - 5rem);
+  width: calc(55% - 5rem);
   max-width: none;
   margin-left: 5rem;
   padding-right: 2rem;
